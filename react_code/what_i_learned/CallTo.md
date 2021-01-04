@@ -2,7 +2,7 @@
 
 ## 무엇을 구현??
 
-> [Code](react_code/src/components/CallTo.js)
+> [Code](../src/components/CallTo.js)
 
 Renders a link formatted to call a phone number(tel: link).
 
