@@ -1,6 +1,6 @@
 import React from 'react';
 
-const useCallTo = ({ phone, color, bgColor, children }) => (
+const ToCall = ({ phone, color, bgColor, children }) => (
   <div style={{ backgroundColor: bgColor }}>
     <a href={`tel:${phone}`} style={{ color: color }}>
       {children}
@@ -8,4 +8,4 @@ const useCallTo = ({ phone, color, bgColor, children }) => (
   </div>
 );
 
-export default useCallTo;
+export default ToCall;

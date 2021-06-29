@@ -2,7 +2,7 @@
 
 ## 무엇을 구현??
 
-> [Code](../src/components/CallTo.js)
+> [Code](../src/components/ToCall.js)
 
 Renders a link formatted to call a phone number(tel: link).
 
