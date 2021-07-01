@@ -18,7 +18,7 @@
 
 # Contents
 
-| ##  | Category |           Theme            |   Date   |
-| :-: | :------: | :------------------------: | :------: |
-| 01  |  React   | [ToCall](./docs/ToCall.md) | 21.01.05 |
-|     |          |                            |          |
+| ##  | Category |                     Theme                      |   Date   |
+| :-: | :------: | :--------------------------------------------: | :------: |
+| 01  |  React   |           [ToCall](./docs/ToCall.md)           | 21.01.05 |
+| 02  |  React   | [usePreviousValue](./docs/usePreviousValue.md) | 21.07.01 |
